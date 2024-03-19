@@ -1,6 +1,3 @@
-Certainly! Below is a brief README for your Express.js application:
-
----
 
 # CSV to JSON Converter API
 
